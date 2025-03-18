@@ -1,4 +1,4 @@
-package Adapter_Pattern.Question3;
+package Design_Pattern.Adapter_Pattern.Question3;
 
 public class MoneyBookersAdapter extends PaymentMethod {
     private final MoneyBookers moneyBooker;

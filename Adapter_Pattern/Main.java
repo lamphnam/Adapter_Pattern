@@ -1,4 +1,4 @@
-package Adapter_Pattern;
+package Design_Pattern.Adapter_Pattern;
 
 import Adapter_Pattern.Question3.MoneyBookers;
 import Adapter_Pattern.Question3.PaymentMethod;

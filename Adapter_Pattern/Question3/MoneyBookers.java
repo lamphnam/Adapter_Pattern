@@ -1,4 +1,4 @@
-package Adapter_Pattern.Question3;
+package Design_Pattern.Adapter_Pattern.Question3;
 
 public class MoneyBookers {
     public void payMoneyBooker(int money) {

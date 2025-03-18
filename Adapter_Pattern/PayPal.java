@@ -1,4 +1,4 @@
-package Adapter_Pattern;
+package Design_Pattern.Adapter_Pattern;
 
 public class PayPal {
 
