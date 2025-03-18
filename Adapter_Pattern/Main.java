@@ -1,8 +1,8 @@
 package Design_Pattern.Adapter_Pattern;
 
-import Adapter_Pattern.Question3.MoneyBookers;
-import Adapter_Pattern.Question3.PaymentMethod;
-import Adapter_Pattern.Question3.MoneyBookersAdapter;
+import Design_Pattern.Adapter_Pattern.Question3.MoneyBookers;
+import Design_Pattern.Adapter_Pattern.Question3.MoneyBookersAdapter;
+import Design_Pattern.Adapter_Pattern.Question3.PaymentMethod;
 
 public class Main {
     public static void main(String[] args) {
